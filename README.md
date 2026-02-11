@@ -8,6 +8,11 @@ ICA integrates two primary research components:
 - IAS — Induction-Based Adaptive Synapse
 
 The objective is to investigate both deterministic logic primitives and adaptive hardware mechanisms using inductive coupling principles.
+## Prototype Component
+
+Example inductive element used in experimental setup:
+
+![Inductor Prototype](docs/inductor.png)
 
 ---
 
