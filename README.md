@@ -2,57 +2,69 @@
 
 Induction-Coupling Architecture (ICA) is an experimental hardware-oriented computing framework that explores computation through controlled electromagnetic coupling rather than conventional transistor-based switching.
 
-The objective of ICA is to investigate alternative computing primitives at the hardware level and evaluate their potential for deterministic logic and adaptive behavior.
+ICA integrates two primary research components:
+
+- IDL — Induction-Based Digital Logic
+- IAS — Induction-Based Adaptive Synapse
+
+The objective is to investigate both deterministic logic primitives and adaptive hardware mechanisms using inductive coupling principles.
 
 ---
 
-## Concept Overview
+## Architecture Components
 
-ICA is based on the principle that electromagnetic induction interactions between circuit elements can be structured to represent and process logical states.
+### 1. IDL — Induction-Based Digital Logic
 
-Instead of relying purely on transistor switching, ICA explores:
-- Inductive signal coupling
-- Energy-based logic representation
-- Hardware-level interaction dynamics
+IDL explores the construction of digital logic primitives using inductive interactions between circuit elements.
 
----
-
-## Current Prototype Status
-
-The following experimental prototypes have been demonstrated:
+Demonstrated prototypes:
 
 - Induction-based NOT gate  
 - Induction-based NAND gate  
 - Induction-based NOR gate  
-- 1-bit binary adder implemented using induction-based logic primitives  
+- 1-bit binary adder constructed from induction-based logic primitives  
 
-These implementations validate the feasibility of constructing deterministic digital logic structures using inductive coupling mechanisms.
+These validate the feasibility of deterministic logic formation using controlled inductive coupling.
 
 ---
 
-## Ongoing Exploration
+### 2. IAS — Induction-Based Adaptive Synapse
 
-Current research directions include:
+IAS investigates adaptive coupling behavior inspired by synaptic mechanisms in biological systems.
 
-- Scaling logic primitives
-- Stability and noise behavior analysis
-- Experimental adaptive coupling mechanisms
-- Architecture-level abstraction of inductive computing systems
+Prototype-stage implementation includes:
+
+- Experimental induction-based synapse element
+- Adjustable coupling response behavior
+- Hardware-level adaptation concept exploration
+
+This component explores the possibility of hardware-level adaptive computation within the ICA framework.
+
+---
+
+## Research Direction
+
+Current focus areas:
+
+- Scaling induction-based logic structures
+- Stability and signal integrity analysis
+- Controlled adaptive coupling mechanisms
+- Architecture-level abstraction for hybrid deterministic and adaptive systems
 
 ---
 
 ## Research Stage
 
-This project is currently in the **prototype-stage experimental research phase**.
+ICA is currently in the **experimental prototype phase**.
 
-The work focuses on validating core hardware principles before large-scale architectural expansion.
+The work validates core hardware principles before advancing toward larger architectural integration.
 
 ---
 
 ## Disclaimer
 
-ICA is an exploratory hardware research initiative.  
-It does not claim replacement of existing computing architectures but investigates alternative physical computing mechanisms.
+ICA is an exploratory hardware research initiative investigating alternative physical computing mechanisms.  
+It does not claim replacement of existing computing architectures.
 
 ---
 
