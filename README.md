@@ -10,9 +10,11 @@ ICA integrates two primary research components:
 The objective is to investigate both deterministic logic primitives and adaptive hardware mechanisms using inductive coupling principles.
 ## Prototype Component
 
-Example inductive element used in experimental setup:
+Inductive element used in prototype implementation.
 
-![Inductor Prototype](docs/inductor.png)
+<p align="center">
+  <img src="docs/inductor.png" width="400">
+</p>
 
 ---
 
